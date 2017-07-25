@@ -1,0 +1,6 @@
+C:\Academy\projects_new\Ovn06.Switch\Ovn6.1BankomatMeny\Ovn6.1BankomatMeny\bin\Debug\Ovn6.1BankomatMeny.exe.config
+C:\Academy\projects_new\Ovn06.Switch\Ovn6.1BankomatMeny\Ovn6.1BankomatMeny\bin\Debug\Ovn6.1BankomatMeny.exe
+C:\Academy\projects_new\Ovn06.Switch\Ovn6.1BankomatMeny\Ovn6.1BankomatMeny\bin\Debug\Ovn6.1BankomatMeny.pdb
+C:\Academy\projects_new\Ovn06.Switch\Ovn6.1BankomatMeny\Ovn6.1BankomatMeny\obj\Debug\Ovn6.1BankomatMeny.csprojResolveAssemblyReference.cache
+C:\Academy\projects_new\Ovn06.Switch\Ovn6.1BankomatMeny\Ovn6.1BankomatMeny\obj\Debug\Ovn6.1BankomatMeny.exe
+C:\Academy\projects_new\Ovn06.Switch\Ovn6.1BankomatMeny\Ovn6.1BankomatMeny\obj\Debug\Ovn6.1BankomatMeny.pdb
